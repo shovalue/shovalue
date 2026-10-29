@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shovalue/shovalue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="banner.svg" alt="Shoval — Fintech | Project Manager" width="100%">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/shovalbb/"><img src="btn-linkedin.svg" alt="LinkedIn" height="40"></a>
+&nbsp;
+<a href="mailto:shovalue25@gmail.com"><img src="btn-email.svg" alt="Email" height="40"></a>
+
+<br><br>
+
+<img src="divider.svg" alt="" width="70%">
+
+</div>
+
+### Hi, I'm Shoval 👋
+
+Fintech project manager, working at the intersection of financial products and data.
+Outside of work, I build tooling for AI agents.
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/shovalbb/) · [Email](mailto:shovalue25@gmail.com)
