@@ -8,7 +8,7 @@
 <img src="divider.svg" alt="" width="70%">
 </div>
 <div align="center">
-Fintech project manager, working at the intersection of financial products and data.
+Working at the intersection of financial products and data.
 Outside of work, I build tooling for AI agents.
 
 -- What I work on
