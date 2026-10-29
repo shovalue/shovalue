@@ -7,7 +7,6 @@
 <br><br>
 <img src="divider.svg" alt="" width="70%">
 </div>
-
 <div align="center">
 Working at the intersection of financial products and data.
 Outside of work, I build tooling for AI agents.
