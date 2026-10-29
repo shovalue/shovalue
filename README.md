@@ -19,11 +19,15 @@
 Fintech project manager, working at the intersection of financial products and data.
 Outside of work, I build tooling for AI agents.
 
-<div align="center">
+<br>
 
-**AI agents & developer tooling** — CLIs, shared guidance and decision-note workflows for agent-driven development<br>
-**Business & fintech apps** — quote and proposal management, business valuation, shift scheduling<br>
-**Small products & experiments** — consumer apps and internal tools, built end to end
+### What I work on
+
+- **AI agents & developer tooling** — CLIs, shared guidance and decision-note workflows for agent-driven development
+- **Business & fintech apps** — quote and proposal management, business valuation, shift scheduling
+- **Small products & experiments** — consumer apps and internal tools, built end to end
+
+<div align="center">
 
 ### Tech I use
 
