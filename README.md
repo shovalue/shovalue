@@ -10,10 +10,9 @@
 <div align="center">
 Working at the intersection of financial products and data.
 Outside of work, I build tooling for AI agents.
-
-
+<N>
 -- **What I work on**
-
+</N>
 * **AI agents & developer tooling** — CLIs, shared guidance and decision-note workflows for agent-driven development<br>
 * **Business & fintech apps** — quote and proposal management, business valuation, shift scheduling<br>
 * **Small products & experiments** — consumer apps and internal tools, built end to end
