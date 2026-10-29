@@ -14,9 +14,9 @@
 
 </div>
 
-### Hi, I'm Shoval 👋
-
-Fintech project manager, working at the intersection of financial products and data.
+<div align="center">
+Working at the intersection of financial products and data.
 Outside of work, I build tooling for AI agents.
+</div>
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/shovalbb/) · [Email](mailto:shovalue25@gmail.com)
