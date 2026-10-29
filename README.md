@@ -18,5 +18,6 @@ Outside of work, I build tooling for AI agents.
 * Small products & experiments** — consumer apps and internal tools, built end to end
 
 -- Tech I use
+
 `TypeScript` · `Next.js` · `Svelte` · `Python` · `Supabase` · `PostgreSQL` · `Prisma` · `SQLite` · `Turborepo` · `Claude Code`
 </div>
