@@ -18,5 +18,3 @@
 Working at the intersection of financial products and data.
 Outside of work, I build tooling for AI agents.
 </div>
-
-**Connect:** [LinkedIn](https://www.linkedin.com/in/shovalbb/) · [Email](mailto:shovalue25@gmail.com)
