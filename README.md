@@ -10,8 +10,8 @@
 Working at the intersection of financial products and data.
 Outside of work, I build tooling for AI agents.
 
-<br>
 
+<br>
 
 **-- What I work on**
 
