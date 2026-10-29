@@ -13,7 +13,7 @@ Outside of work, I build tooling for AI agents.
 
 <br>
 
-**-- What I work on**
+### What I work on
 
 - **AI agents & developer tooling** — CLIs, shared guidance and decision-note workflows for agent-driven development
 - **Business & fintech apps** — quote and proposal management, business valuation, shift scheduling
@@ -21,7 +21,7 @@ Outside of work, I build tooling for AI agents.
 
 <div align="center">
 
-**-- Tech I use**
+### Tech I use
 
 `TypeScript` · `Next.js` · `Svelte` · `Python` · `Supabase` · `PostgreSQL` · `Prisma` · `SQLite` · `Turborepo` · `Claude Code`
 </div>
