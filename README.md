@@ -12,13 +12,13 @@ Working at the intersection of financial products and data.
 Outside of work, I build tooling for AI agents.
 
 
--- What I work on
+-- **What I work on**
 
-* AI agents & developer tooling** — CLIs, shared guidance and decision-note workflows for agent-driven development<br>
-* Business & fintech apps** — quote and proposal management, business valuation, shift scheduling<br>
-* Small products & experiments** — consumer apps and internal tools, built end to end
+* **AI agents & developer tooling** — CLIs, shared guidance and decision-note workflows for agent-driven development<br>
+* **Business & fintech apps** — quote and proposal management, business valuation, shift scheduling<br>
+* **Small products & experiments** — consumer apps and internal tools, built end to end
 
--- Tech I use
+-- **Tech I use**
 
 `TypeScript` · `Next.js` · `Svelte` · `Python` · `Supabase` · `PostgreSQL` · `Prisma` · `SQLite` · `Turborepo` · `Claude Code`
 </div>
