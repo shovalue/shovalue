@@ -11,6 +11,7 @@ Working at the intersection of financial products and data.
 Outside of work, I build tooling for AI agents.
 
 <br>
+
 **-- What I work on**
 
 - **AI agents & developer tooling** — CLIs, shared guidance and decision-note workflows for agent-driven development
